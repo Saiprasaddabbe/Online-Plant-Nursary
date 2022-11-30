@@ -1,4 +1,4 @@
-# Online Plant Nursery Application
+# Online Plant Nursery Application.
 <div id="header" align="center">
   <img src="https://github.com/Updesh012/belligerent-glass-5037/blob/main/The_Green_Country/src/main/java/com/masai/images/project_logo.jpeg" width="40%" height = "200px"/>
 </div>
